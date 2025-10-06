@@ -10,7 +10,7 @@ My goal is to build a career in **DevOps, Site Reliability, or Systems Engineeri
 - 📫 How to reach me: [LinkedIn](#) | [Portfolio](#)
 - 🏆 Fun Fact: My team and I won 1st place nationwide in the ZS Campus Beats Hackathon 6.0!
 
-## 🛠️ My Tech Stack
+<!-- ## 🛠️ My Tech Stack
 
 Here are some of the key technologies I've been working with recently:
 
@@ -54,7 +54,7 @@ Here are some of the key technologies I've been working with recently:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white) -->
 
 <!--
 ## 📈 GitHub Stats
