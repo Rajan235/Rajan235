@@ -16,7 +16,7 @@ My goal is to build a career in **DevOps, Site Reliability, or Systems Engineeri
 
 Final-year Computer Science student specializing in cloud-native infrastructure, automation, and system observability. My focus is on architecting resilient, scalable systems and empowering development teams through robust CI/CD pipelines.
 
-I am an **Oracle Cloud Infrastructure (OCI) DevOps Professional Certified** engineer with practical experience in container orchestration and infrastructure as code.
+I am an **[Oracle Cloud Infrastructure (OCI) DevOps Professional Certified](INSERT_CERTIFICATE_LINK_HERE)** engineer with practical experience in container orchestration and infrastructure as code.
 
 ---
 
@@ -27,42 +27,52 @@ _Starting February 2026_
 
 **Software Engineer Intern** | Cadence Design Systems
 
-- Gained industry experience in enterprise-grade software development and system optimization.
+- Developed a Qt-based desktop tool to automate CAN frame processing, reducing manual parsing time by 40%.
+- Engineered scalable, multi-threaded modules using C++, boosting application responsiveness by 20% under high-load scenarios.
+- Automated build pipelines using CMake and Make to reduce build errors and improve deployment speed.
 
 ---
 
 ### Technical Architecture & Projects
 
-**WatchBuddy (Entertainment Buddy)**
+**[LevoMart: Distributed E-commerce Backend](INSERT_GITHUB_LINK_HERE)**
 
-- **Architecture:** Designed a scalable microservices-based platform for media tracking.
-- **Backend:** Built using **Java Spring Boot 3** with a focus on modularity and performance.
-- **Security:** Implemented a decentralized authentication system using asymmetric JWTs (RS256) and a custom JWKS endpoint.
-- **Frontend:** Developed a responsive user interface using **Next.js** and **React**.
+- **Architecture:** Scalable distributed backend serving simulated 10k+ users with role-based access control.
+- **Tech Stack:** Spring Boot, Kafka, Redis, PostgreSQL, MongoDB, Docker, Kubernetes (GKE).
+- **Performance:** Implemented Redis caching to reduce response time by 40% and Kafka for event-driven decoupling.
+- **DevOps:** Deployed via GitHub Actions CI/CD pipelines to GKE with 99.9% uptime and auto-scaling.
 
-**Infrastructure & Automation**
+**[WatchBuddy (Entertainment Buddy)](INSERT_GITHUB_LINK_HERE)**
 
-- Currently migrating projects to **Kubernetes** clusters with comprehensive containerization strategies.
-- Implementing Infrastructure as Code (IaC) using **Terraform** for reproducible environment provisioning.
-- Achieved **1st Place** nationwide in the **ZS Campus Beats Hackathon 6.0**.
+- **Architecture:** Microservices-based platform for media tracking with decentralized authentication (Asymmetric JWTs).
+- **Observability:** Implemented the full **LGTM Stack (Loki, Grafana, Tempo, Mimir)** for real-time monitoring and log aggregation.
+- **Scalability:** Integrated Kafka for asynchronous communication, enabling horizontal scaling to support high-volume data ingestion.
+
+---
+
+### Achievements & Certifications
+
+- **Winner, ZS Campus Beats Hackathon 6.0 (2025):** Secured 1st place nationwide. **[View Result/Certificate](INSERT_LINK_HERE)**
+- **Oracle Cloud Infrastructure (OCI) DevOps Professional:** Certified 2025. **[View Badge](INSERT_LINK_HERE)**
+- **Algorithmic Problem Solving:** Solved 300+ problems across LeetCode, GFG, and CodeStudio.
 
 ---
 
 ### Technical Skills
 
-| Domain             | Technologies                                                     |
-| :----------------- | :--------------------------------------------------------------- |
-| **Cloud & DevOps** | AWS, OCI, Kubernetes, Docker, Terraform, Ansible, GitHub Actions |
-| **Observability**  | Grafana, Prometheus, Loki, Tempo (LGTM Stack)                    |
-| **Languages**      | Java, C++, Python, JavaScript/TypeScript, Shell Scripting        |
-| **Frameworks**     | Spring Boot, Node.js, Express.js, Next.js, React, Qt             |
-| **Databases**      | PostgreSQL, MongoDB, Redis, Apache Kafka                         |
+| Domain                    | Technologies                                                           |
+| :------------------------ | :--------------------------------------------------------------------- |
+| **Cloud & DevOps**        | AWS, OCI, Kubernetes (GKE), Docker, Terraform, Ansible, GitHub Actions |
+| **Observability**         | Grafana, Prometheus, Loki, Tempo, Mimir (LGTM Stack)                   |
+| **Languages**             | C++, Java, JavaScript, TypeScript, SQL, Shell Scripting                |
+| **Frameworks**            | Spring Boot, Node.js, Express.js, Next.js, Qt                          |
+| **Databases & Streaming** | PostgreSQL, MongoDB, Redis, Apache Kafka                               |
 
 ---
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio.com) | [Email](mailto:your-email@example.com)
+[LinkedIn](https://www.linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio.com) | [Email](mailto:bansalrajan553@gmail.com)
 
 <!-- ## 🛠️ My Tech Stack
 
