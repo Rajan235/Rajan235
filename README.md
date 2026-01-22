@@ -16,7 +16,7 @@ My goal is to build a career in **DevOps, Site Reliability, or Systems Engineeri
 
 Final-year Computer Science student specializing in cloud-native infrastructure, automation, and system observability. My focus is on architecting resilient, scalable systems and empowering development teams through robust CI/CD pipelines.
 
-I am an **[Oracle Cloud Infrastructure (OCI) DevOps Professional Certified](INSERT_CERTIFICATE_LINK_HERE)** engineer with practical experience in container orchestration and infrastructure as code.
+I am an **[Oracle Cloud Infrastructure (OCI) DevOps Professional Certified](https://catalog-education.oracle.com/ords/certview/sharebadge?id=03B17E9943435640E2A373DCA96E98B8C08B00ECE9CE210EE734BFEA9A2BB5CB)** engineer with practical experience in container orchestration and infrastructure as code.
 
 ---
 
@@ -35,14 +35,15 @@ _Starting February 2026_
 
 ### Technical Architecture & Projects
 
-**[LevoMart: Distributed E-commerce Backend](INSERT_GITHUB_LINK_HERE)**
+**[LevoMart: Distributed E-commerce Backend](https://github.com/Rajan235/LevoMart)**
+**[LevoMart: Distributed E-commerce Backend BLOG](https://levomart.hashnode.dev/inside-levomart-a-full-stack-polyglot-microservices-architecture-for-e-commerce)**
 
 - **Architecture:** Scalable distributed backend serving simulated 10k+ users with role-based access control.
 - **Tech Stack:** Spring Boot, Kafka, Redis, PostgreSQL, MongoDB, Docker, Kubernetes (GKE).
 - **Performance:** Implemented Redis caching to reduce response time by 40% and Kafka for event-driven decoupling.
 - **DevOps:** Deployed via GitHub Actions CI/CD pipelines to GKE with 99.9% uptime and auto-scaling.
 
-**[WatchBuddy (Entertainment Buddy)](INSERT_GITHUB_LINK_HERE)**
+**[WatchBuddy (Entertainment Buddy)](https://github.com/Rajan235/EntertainmentBuddy)**
 
 - **Architecture:** Microservices-based platform for media tracking with decentralized authentication (Asymmetric JWTs).
 - **Observability:** Implemented the full **LGTM Stack (Loki, Grafana, Tempo, Mimir)** for real-time monitoring and log aggregation.
@@ -52,8 +53,8 @@ _Starting February 2026_
 
 ### Achievements & Certifications
 
-- **Winner, ZS Campus Beats Hackathon 6.0 (2025):** Secured 1st place nationwide. **[View Result/Certificate](INSERT_LINK_HERE)**
-- **Oracle Cloud Infrastructure (OCI) DevOps Professional:** Certified 2025. **[View Badge](INSERT_LINK_HERE)**
+- **Winner, ZS Campus Beats Hackathon 6.0 (2025):** Secured 1st place nationwide.
+- **Oracle Cloud Infrastructure (OCI) DevOps Professional:** Certified 2025. **[View Badge](https://catalog-education.oracle.com/ords/certview/sharebadge?id=03B17E9943435640E2A373DCA96E98B8C08B00ECE9CE210EE734BFEA9A2BB5CB)**
 - **Algorithmic Problem Solving:** Solved 300+ problems across LeetCode, GFG, and CodeStudio.
 
 ---
@@ -72,7 +73,7 @@ _Starting February 2026_
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio.com) | [Email](mailto:bansalrajan553@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rajanbansal553/) | [Portfolio](https://rajan235.github.io/portfolio_1/) | [Email](mailto:bansalrajan553@gmail.com)
 
 <!-- ## 🛠️ My Tech Stack
 
