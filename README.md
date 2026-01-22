@@ -36,8 +36,7 @@ _Starting February 2026_
 ### Technical Architecture & Projects
 
 **[LevoMart: Distributed E-commerce Backend](https://github.com/Rajan235/LevoMart)**
-
-**[LevoMart: Distributed E-commerce Backend BLOG](https://levomart.hashnode.dev/inside-levomart-a-full-stack-polyglot-microservices-architecture-for-e-commerce)**
+**[ BLOG](https://levomart.hashnode.dev/inside-levomart-a-full-stack-polyglot-microservices-architecture-for-e-commerce)**
 
 - **Architecture:** Scalable distributed backend serving simulated 10k+ users with role-based access control.
 - **Tech Stack:** Spring Boot, Kafka, Redis, PostgreSQL, MongoDB, Docker, Kubernetes (GKE).
