@@ -1,4 +1,4 @@
-# Hi, I'm Rajan 👋
+<!-- # Hi, I'm Rajan 👋
 
 I'm a final-year Computer Science student passionate about architecting the resilient, scalable, and automated infrastructure that powers modern software. I love diving deep into cloud-native technologies, building CI/CD pipelines that empower developers, and ensuring systems are not just functional, but observable.
 
@@ -8,7 +8,61 @@ My goal is to build a career in **DevOps, Site Reliability, or Systems Engineeri
 - 🌱 I'm currently learning Terraform to manage infrastructure as code.
 - 💬 Ask me about microservices architecture, Kubernetes, or system observability with the Grafana LGTM stack.
 - 📫 How to reach me: [LinkedIn](#) | [Portfolio](#)
-- 🏆 Fun Fact: My team and I won 1st place nationwide in the ZS Campus Beats Hackathon 6.0!
+- 🏆 Fun Fact: My team and I won 1st place nationwide in the ZS Campus Beats Hackathon 6.0! -->
+
+# Rajan Bansal
+
+**DevOps & Site Reliability Engineer | Incoming Associate at ZS | Ex-Cadence Intern**
+
+Final-year Computer Science student specializing in cloud-native infrastructure, automation, and system observability. My focus is on architecting resilient, scalable systems and empowering development teams through robust CI/CD pipelines.
+
+I am an **Oracle Cloud Infrastructure (OCI) DevOps Professional Certified** engineer with practical experience in container orchestration and infrastructure as code.
+
+---
+
+### Professional Experience
+
+**Incoming Associate** | ZS Associates
+_Starting February 2026_
+
+**Software Engineer Intern** | Cadence Design Systems
+
+- Gained industry experience in enterprise-grade software development and system optimization.
+
+---
+
+### Technical Architecture & Projects
+
+**WatchBuddy (Entertainment Buddy)**
+
+- **Architecture:** Designed a scalable microservices-based platform for media tracking.
+- **Backend:** Built using **Java Spring Boot 3** with a focus on modularity and performance.
+- **Security:** Implemented a decentralized authentication system using asymmetric JWTs (RS256) and a custom JWKS endpoint.
+- **Frontend:** Developed a responsive user interface using **Next.js** and **React**.
+
+**Infrastructure & Automation**
+
+- Currently migrating projects to **Kubernetes** clusters with comprehensive containerization strategies.
+- Implementing Infrastructure as Code (IaC) using **Terraform** for reproducible environment provisioning.
+- Achieved **1st Place** nationwide in the **ZS Campus Beats Hackathon 6.0**.
+
+---
+
+### Technical Skills
+
+| Domain             | Technologies                                                     |
+| :----------------- | :--------------------------------------------------------------- |
+| **Cloud & DevOps** | AWS, OCI, Kubernetes, Docker, Terraform, Ansible, GitHub Actions |
+| **Observability**  | Grafana, Prometheus, Loki, Tempo (LGTM Stack)                    |
+| **Languages**      | Java, C++, Python, JavaScript/TypeScript, Shell Scripting        |
+| **Frameworks**     | Spring Boot, Node.js, Express.js, Next.js, React, Qt             |
+| **Databases**      | PostgreSQL, MongoDB, Redis, Apache Kafka                         |
+
+---
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio.com) | [Email](mailto:your-email@example.com)
 
 <!-- ## 🛠️ My Tech Stack
 
